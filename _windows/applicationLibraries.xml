@@ -1,0 +1,11 @@
+<application>
+  <component name="libraryTable">
+    <library name="sqljdbc42">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Workspaces/IntelliJ/SQL/lib/sqljdbc42.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
